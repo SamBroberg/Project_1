@@ -282,3 +282,213 @@ git.stage.scmResources 1
 git.stage 1
 git.stage.scmResources 1
 > git add -A -- /home/pc7482yh/.vscode-server/data/logs/20201116T173424/exthost1/output_logging_20201116T173434/1-Git.log
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.vscode-server/data/logs/20201116T173424/exthost1/output_logging_20201116T173434/1-Git.log
+> git ls-files --stage -- /home/pc7482yh/.vscode-server/data/logs/20201116T173424/exthost1/output_logging_20201116T173434/1-Git.log
+> git cat-file -s 0398e104f1552f5ccf430b89e16f102780ecf89c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:project_1/.ipynb_checkpoints/part_2-checkpoint.ipynb
+> git show --textconv :project_1/.ipynb_checkpoints/part_2-checkpoint.ipynb
+> git ls-tree -l HEAD -- /home/pc7482yh/project_1/.ipynb_checkpoints/part_2-checkpoint.ipynb
+> git ls-files --stage -- /home/pc7482yh/project_1/.ipynb_checkpoints/part_2-checkpoint.ipynb
+> git status -z -u
+> git cat-file -s c3e025feced65ab6683a45c3016ac8c579629041
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /home/pc7482yh/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/nbsignatures/a9364507634ea375ea7f35cb2dce1acd2c55d1fb16588e61bac79ccd0c476517 /home/pc7482yh/.vscode-server/data/logs/20201116T173424/exthost1/exthost.log /home/pc7482yh/.vscode-server/data/logs/20201116T173424/exthost1/output_logging_20201116T173434/1-Git.log /home/pc7482yh/.vscode-server/data/logs/20201116T173424/exthost1/output_logging_20201116T173957/2-Jupyter.log /home/pc7482yh/.vscode-server/data/logs/20201116T173424/exthost1/output_logging_20201116T174000/3-Python.log /home/pc7482yh/.vscode-server/data/logs/20201116T173424/exthost1/output_logging_20201116T174000/4-Python Test Log.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/pc7482yh/.vscode-server/data/logs/20201116T173424/exthost1/output_logging_20201116T173434/1-Git.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+fatal: no upstream configured for branch 'main'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/pc7482yh/.vscode-server/data/logs/20201116T173424/exthost1/output_logging_20201116T173434/1-Git.log

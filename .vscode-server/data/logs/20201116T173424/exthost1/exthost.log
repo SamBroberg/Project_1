@@ -14,3 +14,7 @@
 [2020-11-16 17:34:37.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
 [2020-11-16 17:34:37.858] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/github/dist/extension.js
 [2020-11-16 17:34:38.042] [exthost] [info] eager extensions activated
+[2020-11-16 17:39:56.607] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:jupyter"}
+[2020-11-16 17:39:56.610] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065/out/client/extension
+[2020-11-16 17:39:59.498] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"api"}
+[2020-11-16 17:39:59.498] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension

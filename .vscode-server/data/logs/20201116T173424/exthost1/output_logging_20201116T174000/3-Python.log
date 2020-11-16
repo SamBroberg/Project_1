@@ -1,0 +1,43 @@
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - control'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - experiment'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaa'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+> conda info --json
+> conda info --json
+> conda env list
+Error 2020-11-16 17:40:08: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+ubuntu-18.04/home/pc7482yh/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/pc7482yh/.config/Code/User/settings.json')
+	at _handleError (/home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/out/vs/server/remoteExtensionHostProcess.js:750:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:9:152841)
+	at async p.doesFileNeedToBeFixed (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:468556)
+	at async /home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:467683
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:467629)
+	at async p.updateTestSettings (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:467256)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Python interpreter path: /usr/bin/python3
+Starting Jedi Python language engine.
+> conda info --json
+> pyenv root
+> pyenv root
+> pyenv root
+> conda env list

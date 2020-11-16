@@ -1,0 +1,5 @@
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
