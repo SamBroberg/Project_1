@@ -1,0 +1,24 @@
+[2020-11-11 12:19:45.386] [exthost] [info] extension host started
+[2020-11-11 12:19:45.733] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onDebugDynamicConfigurations"}
+[2020-11-11 12:19:45.734] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-11 12:19:47.809] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-11 12:19:47.809] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/debug-auto-launch/dist/extension
+[2020-11-11 12:19:47.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-11 12:19:47.881] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-11 12:19:48.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-11 12:19:48.069] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/git/dist/main
+[2020-11-11 12:19:48.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-11 12:19:48.645] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-11 12:19:48.741] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-11 12:19:48.741] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/search-result/dist/extension.js
+[2020-11-11 12:19:51.629] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-11 12:19:51.630] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/github/dist/extension.js
+[2020-11-11 12:19:52.015] [exthost] [info] eager extensions activated
+[2020-11-11 12:26:41.916] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:jupyter"}
+[2020-11-11 12:26:41.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension
+[2020-11-11 12:31:51.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-11-11 12:31:51.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/configuration-editing/dist/configurationEditingMain
+[2020-11-11 12:31:51.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-11-11 12:31:51.392] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-11-11 12:31:51.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-11-11 12:31:51.731] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/extensions/typescript-language-features/dist/extension

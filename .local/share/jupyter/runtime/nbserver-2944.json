@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/pc7482yh/module_5_lectures",
+  "password": false,
+  "pid": 2944,
+  "port": 8888,
+  "secure": false,
+  "token": "cb550d92183798b7ab59e2494cbfb7025b5e43c9a91b7582",
+  "url": "http://localhost:8888/"
+}

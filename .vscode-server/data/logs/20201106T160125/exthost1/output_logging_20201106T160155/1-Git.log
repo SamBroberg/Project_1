@@ -1,0 +1,295 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/.pyenv
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/module1_lectures
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/module1_lectures/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/module_4_lectures
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --git-dir
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Open repository: /home/pc7482yh/module_4_lectures_my_work
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/SamBroberg/module_4_lectures_my_work/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/module_5_lectures
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/my_site
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/pc7482yh/module_5_lectures/5_3_parents_children_descendents_and_siblings_v2.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show --textconv :5_3_parents_children_descendents_and_siblings_v2.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_3_parents_children_descendents_and_siblings_v2.ipynb
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git cat-file -s 82b6e9f15ff409d36415967ea86f2b0b541c0839
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-list --count ed79e2a53f04c642b8b638592d10dcef8605ff02.. -- /home/pc7482yh/module_5_lectures/5_3_parents_children_descendents_and_siblings_v2.ipynb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/pc7482yh/module_5_lectures/5_3_parents_children_descendents_and_siblings_v2.ipynb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/pc7482yh/module_5_lectures/5_3_parents_children_descendents_and_siblings_v2.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git add -A -- /home/pc7482yh/module_4_lectures/Lecture_4_1_unfolding_sequences.ipynb /home/pc7482yh/module_4_lectures/lab_4_1_grouping_lines.ipynb /home/pc7482yh/module_4_lectures/lab_4_2_regular_expression_practice.ipynb /home/pc7482yh/module_4_lectures/lecture_4_2_folding_data_with_the_accumulator_pattern.ipynb /home/pc7482yh/module_4_lectures/lecture_4_3_reading_writing_files.ipynb /home/pc7482yh/module_4_lectures/lecture_4_4_cleaning_messy_text_files_part_1.ipynb /home/pc7482yh/module_4_lectures/lecture_4_5_abstracting_list_comprehension_patterns.ipynb /home/pc7482yh/module_4_lectures/lecture_4_6_cleaning_messy_text_files_part_2.ipynb /home/pc7482yh/module_4_lectures/sell_short_trades.txt /home/pc7482yh/module_4_lectures/911_Deaths_Grouped_Mine.csv /home/pc7482yh/module_4_lectures/Cleaned_911_deaths.csv /home/pc7482yh/module_4_lectures/cers_lines.csv /home/pc7482yh/module_4_lectures/example3.csv /home/pc7482yh/module_4_lectures/porject_part_2.ipynb /home/pc7482yh/module_4_lectures/trades.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/pc7482yh/module_5_lectures/5_3_parents_children_descendents_and_siblings_v2.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/pc7482yh/module_5_lectures/lab_5_2_scraping_imdb.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push module_5_lectures main
+To https://github.com/SamBroberg/module_5_lectures.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/SamBroberg/module_5_lectures.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git remote add https-//github.com/SamBroberg/module_5_lectures module_5_lectures
+fatal: 'https-//github.com/SamBroberg/module_5_lectures' is not a valid remote name
+> git remote add https-//github.com/SamBroberg/module_5_lectures module_5_lectures
+fatal: 'https-//github.com/SamBroberg/module_5_lectures' is not a valid remote name
+> git push module_5_lectures main
+To https://github.com/SamBroberg/module_5_lectures.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/SamBroberg/module_5_lectures.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git remote add my_module_5_lectures my_module_5_lectures
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push my_module_5_lectures main
+fatal: 'my_module_5_lectures' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git push module_5_lectures main
+To https://github.com/SamBroberg/module_5_lectures.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/SamBroberg/module_5_lectures.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git push module_5_lectures main
+To https://github.com/SamBroberg/module_5_lectures.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/SamBroberg/module_5_lectures.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s 1c14b489dda908ce9bccc2b09958fcffba884f8b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git push module_5_lectures main
+To https://github.com/SamBroberg/module_5_lectures.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/SamBroberg/module_5_lectures.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git push module_5_lectures main
+To https://github.com/SamBroberg/module_5_lectures.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/SamBroberg/module_5_lectures.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git remote add https-//github.com/SamBroberg/my_module_5_lectures.git my_module_5_lectures
+fatal: 'https-//github.com/SamBroberg/my_module_5_lectures.git' is not a valid remote name
+> git remote add sam_module_5_lectures https://github.com/SamBroberg/my_module_5_lectures.git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push sam_module_5_lectures main
+To https://github.com/SamBroberg/my_module_5_lectures.git
+ * [new branch]      main -> main
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

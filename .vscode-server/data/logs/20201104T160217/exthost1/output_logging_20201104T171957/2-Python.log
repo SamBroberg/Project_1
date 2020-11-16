@@ -1,0 +1,202 @@
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - control'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - experiment'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaa'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> pyenv root
+> conda info --json
+> conda env list
+> conda info --json
+> conda info --json
+> conda info --json
+> conda info --json
+Error 2020-11-04 17:20:10: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+ubuntu-18.04/home/pc7482yh/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/pc7482yh/.config/Code/User/settings.json')
+	at _handleError (/home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/out/vs/server/remoteExtensionHostProcess.js:750:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:9:168994)
+	at async p.doesFileNeedToBeFixed (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:963651)
+	at async /home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962778
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962724)
+	at async p.updateTestSettings (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962351)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Starting Jedi Python language engine.
+Python interpreter path: ./.pyenv/versions/anaconda3-2020.02/bin/python
+> pyenv root
+> pyenv root
+> pyenv root
+> conda info --json
+> conda info --json
+> conda info --json
+> conda env list
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Error 2020-11-04 17:20:31: Kernel died [r [Error]: [IPKernelApp] ERROR | Failed to create history session in /home/pc7482yh/.ipython/profile_default/history.sqlite. History will not be saved.
+
+	at t._next (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:54:288055)
+	at t.__tryOrUnsub (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:5463)
+	at t.next (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:4632)
+	at t._next (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:3736)
+	at t.next (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:3407)
+	at t.next (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:32:8976)
+	at /home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:62421
+	at /home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:362051
+	at /home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:362269
+	at Immediate._onImmediate (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:47:363834)
+	at processImmediate (internal/timers.js:439:21)] 
+Starting Jedi Python language engine.
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> conda info --json
+> conda info --json
+> conda info --json
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import nbconvert"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py jupyter nbconvert --version
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python (daemon) -m jupyter nbconvert /tmp/eb65e244-d0dd-4a3a-9896-3020c0b1660c/tmp-2379ttjxHsN7jbfX.ipynb --to python --stdout --template /tmp/tmp-2379PLQkIzm7poly.tpl
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py jupyter nbconvert /tmp/eb65e244-d0dd-4a3a-9896-3020c0b1660c/tmp-2379ttjxHsN7jbfX.ipynb --to python --stdout --template /tmp/tmp-2379PLQkIzm7poly.tpl
+Error 2020-11-04 17:31:34: nbconvert zero size output
+Error 2020-11-04 17:31:34: Export failed [Error: [NbConvertApp] Converting notebook /tmp/eb65e244-d0dd-4a3a-9896-3020c0b1660c/tmp-2379ttjxHsN7jbfX.ipynb to python
+[NbConvertApp] ERROR | Notebook JSON is invalid: {'type': 'string'} is not valid under any of the given schemas
+
+Failed validating 'oneOf' in execute_result['properties']['data']['patternProperties']['^(?!application/json$)[a-zA-Z0-9]+/[a-zA-Z0-9\\-\\+\\.]+$']:
+
+On instance['cells'][13]['outputs'][0]['data']['application/vnd.google.colaboratory.intrinsic+json']:
+{'type': 'string'}
+--- Logging error ---
+Traceback (most recent call last):
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 318, in _preprocess
+    nbformat.validate(nbc, relax_add_props=True)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbformat/validator.py", line 277, in validate
+    raise error
+nbformat.validator.NotebookValidationError: {'type': 'string'} is not valid under any of the given schemas
+
+Failed validating 'oneOf' in execute_result['properties']['data']['patternProperties']['^(?!application/json$)[a-zA-Z0-9]+/[a-zA-Z0-9\\-\\+\\.]+$']:
+
+On instance['cells'][13]['outputs'][0]['data']['application/vnd.google.colaboratory.intrinsic+json']:
+{'type': 'string'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/logging/__init__.py", line 1025, in emit
+    msg = self.format(record)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/logging/__init__.py", line 869, in format
+    return fmt.format(record)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/traitlets/config/application.py", line 117, in format
+    return super(LevelFormatter, self).format(record)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/logging/__init__.py", line 608, in format
+    record.message = record.getMessage()
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/logging/__init__.py", line 369, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Call stack:
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/bin/jupyter-nbconvert", line 11, in <module>
+    sys.exit(main())
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/jupyter_core/application.py", line 268, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/traitlets/config/application.py", line 664, in launch_instance
+    app.start()
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 340, in start
+    self.convert_notebooks()
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 510, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 481, in convert_single_notebook
+    output, resources = self.export_single_notebook(notebook_filename, resources, input_buffer=input_buffer)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 410, in export_single_notebook
+    output, resources = self.exporter.from_filename(notebook_filename, resources=resources)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 179, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 197, in from_file
+    return self.from_notebook_node(nbformat.read(file_stream, as_version=4), resources=resources, **kw)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/templateexporter.py", line 307, in from_notebook_node
+    nb_copy, resources = super(TemplateExporter, self).from_notebook_node(nb, resources, **kw)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 139, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 321, in _preprocess
+    preprocessor)
+Message: 'Notebook is invalid after preprocessor {}'
+Arguments: (<nbconvert.preprocessors.tagremove.TagRemovePreprocessor object at 0x7ff176686e10>,)
+Traceback (most recent call last):
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/bin/jupyter-nbconvert", line 11, in <module>
+    sys.exit(main())
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/jupyter_core/application.py", line 268, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/traitlets/config/application.py", line 664, in launch_instance
+    app.start()
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 340, in start
+    self.convert_notebooks()
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 510, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 481, in convert_single_notebook
+    output, resources = self.export_single_notebook(notebook_filename, resources, input_buffer=input_buffer)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/nbconvertapp.py", line 410, in export_single_notebook
+    output, resources = self.exporter.from_filename(notebook_filename, resources=resources)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 179, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 197, in from_file
+    return self.from_notebook_node(nbformat.read(file_stream, as_version=4), resources=resources, **kw)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/templateexporter.py", line 307, in from_notebook_node
+    nb_copy, resources = super(TemplateExporter, self).from_notebook_node(nb, resources, **kw)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 139, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 318, in _preprocess
+    nbformat.validate(nbc, relax_add_props=True)
+  File "/home/pc7482yh/.pyenv/versions/anaconda3-2020.02/lib/python3.7/site-packages/nbformat/validator.py", line 277, in validate
+    raise error
+nbformat.validator.NotebookValidationError: {'type': 'string'} is not valid under any of the given schemas
+
+Failed validating 'oneOf' in execute_result['properties']['data']['patternProperties']['^(?!application/json$)[a-zA-Z0-9]+/[a-zA-Z0-9\\-\\+\\.]+$']:
+
+On instance['cells'][13]['outputs'][0]['data']['application/vnd.google.colaboratory.intrinsic+json']:
+{'type': 'string'}
+
+	at /home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:412203
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async m.importFromFile (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:439914)
+	at async s.export (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:266885)
+	at async _.exportToFormat (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:262565)
+	at async _.performExport (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:261734)
+	at async _.export (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:261248)
+	at async /home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:361027
+	at async u.waitWithStatus (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:735078)
+	at async C.importNotebookOnFile (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:360900)
+	at async C.listenForErrors (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:355914)]
+Error 2020-11-04 17:32:18: DataScience Error [SyntaxError: Unexpected token < in JSON at position 2
+	at JSON.parse (<anonymous>)
+	at r.loadContents (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:131670)
+	at r.loadFromFile (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:17:131254)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+> conda info --json
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v

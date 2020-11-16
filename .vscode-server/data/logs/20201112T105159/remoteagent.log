@@ -1,0 +1,28 @@
+[2020-11-12 10:52:19.462] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-11-12 10:52:19.462] [remoteagent] [info] Extension host agent started.
+[2020-11-12 10:52:19.613] [remoteagent] [info] [::ffff:127.0.0.1][c0fb94ef][ManagementConnection] New connection established.
+[2020-11-12 10:52:19.618] [remoteagent] [info] [::ffff:127.0.0.1][50f581a2][ExtensionHostConnection] New connection established.
+[2020-11-12 10:52:23.478] [remoteagent] [info] Installing extension: ms-python.python
+[2020-11-12 10:52:24.450] [remoteagent] [info] [::ffff:127.0.0.1][50f581a2][ExtensionHostConnection] <15972> Launched Extension Host Process.
+[2020-11-12 10:52:26.713] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2020-11-12 10:52:41.433] [remoteagent] [info] Extracted extension to /home/pc7482yh/.vscode-server/extensions/.ms-python.python-2020.11.358366026: ms-python.python
+[2020-11-12 10:52:41.525] [remoteagent] [info] Renamed to /home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.11.358366026
+[2020-11-12 10:52:41.567] [remoteagent] [info] Installation completed. ms-python.python
+[2020-11-12 10:52:41.888] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2020-11-12 10:52:44.755] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2020-11-12 10:52:47.375] [remoteagent] [info] Extracted extension to /home/pc7482yh/.vscode-server/extensions/.ms-toolsai.jupyter-2020.11.358541065: ms-toolsai.jupyter
+[2020-11-12 10:52:47.406] [remoteagent] [info] Renamed to /home/pc7482yh/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065
+[2020-11-12 10:52:47.429] [remoteagent] [info] Installation completed. ms-toolsai.jupyter
+[2020-11-12 10:52:47.443] [remoteagent] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2020-11-12 10:52:47.467] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2020-11-12 16:38:48.393] [remoteagent] [info] [::ffff:127.0.0.1][c0fb94ef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-11-12 16:38:49.530] [remoteagent] [info] [::ffff:127.0.0.1][50f581a2][ExtensionHostConnection] <15972> Extension Host Process exited with code: 0, signal: null.

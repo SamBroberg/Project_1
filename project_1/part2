@@ -1,0 +1,3 @@
+with open("sell_short_trades.txt") as trades:
+    lines = trades.readlines()
+trades.close()

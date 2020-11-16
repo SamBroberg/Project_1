@@ -1,0 +1,386 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/.pyenv
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/module1_lectures
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/module1_lectures/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/module_4_lectures
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/module_4_lectures_my_work
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/SamBroberg/module_4_lectures_my_work/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/module_5_lectures
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-parse --git-dir
+Open repository: /home/pc7482yh/my_site
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git symbolic-ref --short HEAD
+> git rev-list --left-right main...refs/remotes/origin/main
+> git rev-parse master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git symbolic-ref --short HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git status -z -u
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git push module_5_lectures main
+To https://github.com/SamBroberg/module_5_lectures.git
+   45eab14..547517e  main -> main
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :5_4_linear_web_crawls.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_4_linear_web_crawls.ipynb
+> git cat-file -s cbc7146eaf0c6d8093ce2db8d90159fe9566aa77
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git show --textconv 969ee3cce3aa224377aed3394350b97b07e0d6a6:5_7_web_scraping_with_selenium.ipynb
+> git show --textconv 547517ef05e76c73030495221f6879790b1cee0b:5_7_web_scraping_with_selenium.ipynb
+> git ls-tree -l 969ee3cce3aa224377aed3394350b97b07e0d6a6 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git ls-tree -l 547517ef05e76c73030495221f6879790b1cee0b -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git check-ignore -v -z --stdin
+> git show --textconv 969ee3cce3aa224377aed3394350b97b07e0d6a6^:5_7_web_scraping_with_selenium.ipynb
+> git ls-tree -l 969ee3cce3aa224377aed3394350b97b07e0d6a6 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git ls-tree -l 969ee3cce3aa224377aed3394350b97b07e0d6a6^ -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git check-ignore -v -z --stdin
+> git ls-tree -l 969ee3cce3aa224377aed3394350b97b07e0d6a6 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git ls-tree -l 547517ef05e76c73030495221f6879790b1cee0b -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git ls-tree -l 969ee3cce3aa224377aed3394350b97b07e0d6a6^ -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git ls-tree -l 969ee3cce3aa224377aed3394350b97b07e0d6a6 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git ls-tree -l 969ee3cce3aa224377aed3394350b97b07e0d6a6 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git ls-tree -l 547517ef05e76c73030495221f6879790b1cee0b -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git symbolic-ref --short HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git rev-list --count 969ee3cce3aa224377aed3394350b97b07e0d6a6.. -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git ls-tree -l HEAD -- /home/pc7482yh/module_5_lectures/img/duckduck_search.png
+> git ls-tree -l HEAD -- /home/pc7482yh/module_5_lectures/img/duckduck_search.png
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/img/duckduck_search.png
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/img/duckduck_search.png
+> git cat-file -s e90af992a25a91f4b251c6be5e8e8498d631bd51
+> git cat-file -s e90af992a25a91f4b251c6be5e8e8498d631bd51
+> git check-ignore -v -z --stdin
+> git show --textconv :img/duckduck_search.png
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/img/duckduck_search.png
+> git cat-file -s e90af992a25a91f4b251c6be5e8e8498d631bd51
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+git.getSCMResource.uri file:///home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+repo root /home/pc7482yh/module_4_lectures_my_work
+repo root /home/pc7482yh/module_4_lectures
+repo root /home/pc7482yh/module_5_lectures
+repo root /home/pc7482yh/module1_lectures
+repo root /home/pc7482yh/my_site
+repo root /home/pc7482yh/.pyenv
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s ed79ecbc4a0a2c169e985d284a5e382f31829a2d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-list --count 969ee3cce3aa224377aed3394350b97b07e0d6a6.. -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git rev-list --count 969ee3cce3aa224377aed3394350b97b07e0d6a6.. -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-list --count 969ee3cce3aa224377aed3394350b97b07e0d6a6.. -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git branch
+> git reset -q HEAD -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git checkout -q -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s 5de45e4f068b9ce81806af3354b5f82aad262c62
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s 5de45e4f068b9ce81806af3354b5f82aad262c62
+> git show --textconv :5_5_linear_web_crawling_with_dates.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_5_linear_web_crawling_with_dates.ipynb
+> git cat-file -s e537566cab956e04d57fc9f991865cf2cedc0286
+> git check-ignore -v -z --stdin
+> git show --textconv :5_7_web_scraping_with_selenium.ipynb
+> git ls-files --stage -- /home/pc7482yh/module_5_lectures/5_7_web_scraping_with_selenium.ipynb
+> git cat-file -s 5de45e4f068b9ce81806af3354b5f82aad262c62
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pc7482yh/.pyenv/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template

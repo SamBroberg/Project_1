@@ -1,0 +1,79 @@
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - control'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - experiment'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaa'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> pyenv root
+> conda info --json
+> conda env list
+> conda info --json
+> conda info --json
+> conda info --json
+> conda info --json
+Error 2020-11-11 12:26:56: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+ubuntu-18.04/home/pc7482yh/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/pc7482yh/.config/Code/User/settings.json')
+	at _handleError (/home/pc7482yh/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/out/vs/server/remoteExtensionHostProcess.js:750:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:9:168994)
+	at async p.doesFileNeedToBeFixed (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:963651)
+	at async /home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962778
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962724)
+	at async p.updateTestSettings (/home/pc7482yh/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962351)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Starting Jedi Python language engine.
+Python interpreter path: ~/.pyenv/versions/anaconda3-2020.02/bin/python
+> pyenv root
+> pyenv root
+> pyenv root
+> conda info --json
+> conda info --json
+> conda env list
+Starting Jedi Python language engine.
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py pip --version
+Starting Jedi Python language engine.
+Python interpreter path: /usr/bin/python3
+> conda info --json
+> conda info --json
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/.pyenv/versions/anaconda3-2020.02/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Error 2020-11-11 14:50:51: Disposing session as kernel process died ExitCode: undefined, Reason: undefined
+Error 2020-11-11 14:50:51: Disposing session as kernel process died ExitCode: undefined, Reason: undefined
+Error 2020-11-11 14:50:51: Disposing session as kernel process died ExitCode: undefined, Reason: undefined
